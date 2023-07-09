@@ -1,4 +1,4 @@
-module Startup
+module main
 
 go 1.20
 
